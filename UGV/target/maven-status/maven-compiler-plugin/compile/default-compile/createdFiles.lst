@@ -1,8 +1,0 @@
-model_ugv\Auth_model.class
-model_ugv\Dashboard_model.class
-controller_ugv\Dashboard_controller.class
-ugv\UGV.class
-controller_ugv\Auth_controller.class
-view_ugv\Dashboard_view.class
-model_ugv\Database.class
-view_ugv\Auth_view.class
